@@ -5,3 +5,4 @@ plotly==5.20.0
 plotly-express==0.4.1
 openpyxl==3.1.1
 matplotlib==3.6.3
+xlsxwriter==3.0.2
